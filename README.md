@@ -1,4 +1,4 @@
-# 博客 :link: http://blog.meekdai.com 
+# 博客 :link: http://blog.giin.top
 ### :page_facing_up: [1](http://blog.meekdai.com/tag.html) 
 ### :speech_balloon: 0 
 ### :hibiscus: 11 
